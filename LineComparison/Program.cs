@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Console.WriteLine("Welcome to LineComparison");
-            LineComparison.Geometry_Length();
+            LineComparison.Cartesian_System();
         }
     }
 }
