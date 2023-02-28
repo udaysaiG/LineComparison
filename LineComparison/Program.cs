@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Console.WriteLine("Welcome to LineComparison");
-            LineComparison.Cartesian_System();
+            LineComparison.Compare_Twolines();
         }
     }
 }
